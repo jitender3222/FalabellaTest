@@ -29,3 +29,4 @@ operators or `else`.
 
 # How to run
 Clone and run index.php file to print results.
+run TestCases.php to run Test Cases.
